@@ -15,8 +15,9 @@ impl UF {
     }
 
     fn get_rank_or_insert(&mut self, id: usize) -> &mut usize {
-        self.rank.entry(id).or_insert(id)
+        self.rank.entry(id).or_insert(0)
     }
+    
     fn get_parent_or_insert(&mut self, id: usize) -> &mut usize {
         self.parent.entry(id).or_insert(id)
     }
