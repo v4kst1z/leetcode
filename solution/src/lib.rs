@@ -19,3 +19,4 @@ pub mod solution_0094_binary_tree_inorder_traversal;
 pub mod solution_0010_regular_expression_matching;
 pub mod solution_0096_unique_binary_search_trees;
 pub mod solution_0684_redundant_connection;
+pub mod solution_0207_course_schedule;
