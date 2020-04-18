@@ -15,6 +15,7 @@ LeetCode
 |0009|[Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [rust](./solution/src/solution_0009_palindrome_number.rs)|Easy|
 |0010|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | [rust](./solution/src/solution_0010_regular_expression_matching.rs)|Hard|
 |0011|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [rust](./solution/src/solution_0011_container_with_most_water.rs)|Medium|
+|0012|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [rust](./solution/src/solution_0012_integer_to_roman.rs)|Medium|
 |0094|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [rust](./solution/src/solution_0094_binary_tree_inorder_traversal.rs)|Medium|
 |0096|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | [rust](./solution/src/solution_0096_unique_binary_search_trees.rs)|Medium|
 |0207|[Course Schedule](https://leetcode.com/problems/course-schedule/) | [rust](./solution/src/solution_0207_course_schedule.rs)|Medium|
