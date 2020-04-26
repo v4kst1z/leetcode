@@ -22,6 +22,8 @@ LeetCode
 |0016|[3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [rust](./solution/src/solution_0016_3sum_closest.rs)|Medium|
 |0017|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [rust](./solution/src/solution_0017_letter_combinations_of_a_phone_number.rs)|Medium|
 |0018|[4Sum](https://leetcode.com/problems/4sum/) | [rust](./solution/src/solution_0018_4sum.rs)|Medium|
+|0019|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [rust](./solution/src/solution_0019_remove_nth_node_from_end_of_list.rs)|Medium|
+|0020|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [rust](./solution/src/solution_0020_valid_parentheses.rs)|Easy|
 |0094|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [rust](./solution/src/solution_0094_binary_tree_inorder_traversal.rs)|Medium|
 |0096|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | [rust](./solution/src/solution_0096_unique_binary_search_trees.rs)|Medium|
 |0207|[Course Schedule](https://leetcode.com/problems/course-schedule/) | [rust](./solution/src/solution_0207_course_schedule.rs)|Medium|
