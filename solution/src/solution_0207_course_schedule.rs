@@ -24,11 +24,11 @@ impl Solution {
     }
 
     fn dfs(graph: &HashMap<i32, Vec<i32>>, course1: i32, course2: i32, access: &mut Vec<bool>) -> bool {
-        if course1 == course2 || access[course2 as usize] == true {
+        if course1 == course2 || access[course1 as usize] == true {
             return true;
         }
 
-        access[course2 as usize] == true;
+        access[course1 as usize] == true;
         for elem_vec in graph.get(&course1) {
             for elem in elem_vec {
                 if Solution::dfs(graph, *elem, course2, access) == true {
