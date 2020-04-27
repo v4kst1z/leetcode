@@ -12,12 +12,12 @@ impl Solution {
                 return false;
             }
 
-            if graph.contains_key(&course1) {
-                if let Some(tmp) = graph.get_mut(&course1) {
-                    (*tmp).push(course2);
+            if graph.contains_key(&course2) {
+                if let Some(tmp) = graph.get_mut(&course2) {
+                    (*tmp).push(course1);
                 }
             } else {
-                graph.insert(course1, vec![course2]);
+                graph.insert(course2, vec![course1]);
             }
         }
         true
@@ -29,9 +29,9 @@ impl Solution {
         }
 
         access[course2 as usize] == true;
-        for elem_vec in graph.get(&course2) {
+        for elem_vec in graph.get(&course1) {
             for elem in elem_vec {
-                if Solution::dfs(graph, course1, *elem, access) == true {
+                if Solution::dfs(graph, *elem, course2, access) == true {
                     return true;
                 }
             }
