@@ -29,3 +29,5 @@ pub mod solution_0016_3sum_closest;
 pub mod solution_0017_letter_combinations_of_a_phone_number;
 pub mod solution_0018_4sum;
 pub mod solution_0019_remove_nth_node_from_end_of_list;
+pub mod solution_0020_valid_parentheses;
+pub mod solution_0021_merge_two_sorted_lists;

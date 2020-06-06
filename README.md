@@ -24,8 +24,8 @@ LeetCode
 |0018|[4Sum](https://leetcode.com/problems/4sum/) | [rust](./solution/src/solution_0018_4sum.rs)|Medium|
 |0019|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [rust](./solution/src/solution_0019_remove_nth_node_from_end_of_list.rs)|Medium|
 |0020|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [rust](./solution/src/solution_0020_valid_parentheses.rs)|Easy|
+|0021|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [rust](solution/src/solution_0021_merge_two_sorted_lists.rs)|Easy|
 |0094|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [rust](./solution/src/solution_0094_binary_tree_inorder_traversal.rs)|Medium|
 |0096|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | [rust](./solution/src/solution_0096_unique_binary_search_trees.rs)|Medium|
 |0207|[Course Schedule](https://leetcode.com/problems/course-schedule/) | [rust](./solution/src/solution_0207_course_schedule.rs)|Medium|
 |0684|[Redundant Connection](https://leetcode.com/problems/redundant-connection/) | [rust](./solution/src/solution_0684_redundant_connection.rs)|Medium|
-
