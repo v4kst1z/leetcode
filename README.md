@@ -29,6 +29,7 @@ LeetCode
 |0096|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | [rust](./solution/src/solution_0096_unique_binary_search_trees.rs)|Medium|
 |0098|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [rust](./solution/src/solution_0098_validate_binary_search_tree.rs)|Medium|
 |0100|[Same Tree](https://leetcode.com/problems/same-tree/) | [rust](./solution/src/solution_0100_same_tree.rs)|Easy|
+|0101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [rust](./solution/src/solution_0101_symmetric_tree.rs)|Easy|
 |0102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [rust](./solution/src/solution_0102_binary_tree_level_order_traversal.rs)|Medium|
 |0103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [rust](./solution/src/solution_0103_binary_tree_zigzag_level_order_traversal.rs)|Medium|
 |0104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [rust](./solution/src/solution_0104_maximum_depth_of_binary_tree.rs)|Easy|
