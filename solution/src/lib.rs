@@ -31,3 +31,8 @@ pub mod solution_0018_4sum;
 pub mod solution_0019_remove_nth_node_from_end_of_list;
 pub mod solution_0020_valid_parentheses;
 pub mod solution_0021_merge_two_sorted_lists;
+pub mod solution_0098_validate_binary_search_tree;
+pub mod solution_0102_binary_tree_level_order_traversal;
+pub mod solution_0100_same_tree;
+pub mod solution_0104_maximum_depth_of_binary_tree;
+pub mod solution_0103_binary_tree_zigzag_level_order_traversal;

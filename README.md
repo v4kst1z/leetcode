@@ -27,5 +27,10 @@ LeetCode
 |0021|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [rust](solution/src/solution_0021_merge_two_sorted_lists.rs)|Easy|
 |0094|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [rust](./solution/src/solution_0094_binary_tree_inorder_traversal.rs)|Medium|
 |0096|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | [rust](./solution/src/solution_0096_unique_binary_search_trees.rs)|Medium|
+|0098|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [rust](./solution/src/solution_0098_validate_binary_search_tree.rs)|Medium|
+|0100|[Same Tree](https://leetcode.com/problems/same-tree/) | [rust](./solution/src/solution_0100_same_tree.rs)|Easy|
+|0102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [rust](./solution/src/solution_0102_binary_tree_level_order_traversal.rs)|Medium|
+|0103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [rust](./solution/src/solution_0103_binary_tree_zigzag_level_order_traversal.rs)|Medium|
+|0104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [rust](./solution/src/solution_0104_maximum_depth_of_binary_tree.rs)|Easy|
 |0207|[Course Schedule](https://leetcode.com/problems/course-schedule/) | [rust](./solution/src/solution_0207_course_schedule.rs)|Medium|
 |0684|[Redundant Connection](https://leetcode.com/problems/redundant-connection/) | [rust](./solution/src/solution_0684_redundant_connection.rs)|Medium|
