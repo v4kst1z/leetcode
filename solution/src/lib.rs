@@ -36,3 +36,4 @@ pub mod solution_0102_binary_tree_level_order_traversal;
 pub mod solution_0100_same_tree;
 pub mod solution_0104_maximum_depth_of_binary_tree;
 pub mod solution_0103_binary_tree_zigzag_level_order_traversal;
+pub mod solution_0095_unique_binary_search_trees_ii;

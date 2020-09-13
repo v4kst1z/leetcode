@@ -1,10 +1,9 @@
 use std::collections::HashMap;
-use std::borrow::BorrowMut;
 pub struct Solution{}
 impl Solution {
     pub fn can_finish(num_courses: i32, prerequisites: Vec<Vec<i32>>) -> bool {
         let mut graph: HashMap<i32, Vec<i32>> = HashMap::new();
-        let mut access = vec![false; num_courses as usize];
+        let access = vec![false; num_courses as usize];
 
         for courses in prerequisites.iter() {
             let (course1, course2) = (courses[0], courses[1]);
@@ -24,11 +23,10 @@ impl Solution {
     }
 
     fn dfs(graph: &HashMap<i32, Vec<i32>>, course1: i32, course2: i32, access: &mut Vec<bool>) -> bool {
-        if course1 == course2 || access[course1 as usize] == true {
+        if course1 == course2  {
             return true;
         }
 
-        access[course1 as usize] == true;
         for elem_vec in graph.get(&course1) {
             for elem in elem_vec {
                 if Solution::dfs(graph, *elem, course2, access) == true {

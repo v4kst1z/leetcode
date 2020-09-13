@@ -19,11 +19,9 @@ impl TreeNode {
 
 use std::rc::Rc;
 use std::cell::RefCell;
-use std::borrow::{Borrow, BorrowMut};
 
 pub struct Solution {}
 
-static mut MIN:i32 = 0;
 
 impl Solution {
     /*

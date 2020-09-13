@@ -26,6 +26,7 @@ LeetCode
 |0020|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [rust](./solution/src/solution_0020_valid_parentheses.rs)|Easy|
 |0021|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [rust](solution/src/solution_0021_merge_two_sorted_lists.rs)|Easy|
 |0094|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [rust](./solution/src/solution_0094_binary_tree_inorder_traversal.rs)|Medium|
+|0095|[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) | [rust](./solution/src/solution_0095_unique_binary_search_trees_ii.rs)|Medium|
 |0096|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | [rust](./solution/src/solution_0096_unique_binary_search_trees.rs)|Medium|
 |0098|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [rust](./solution/src/solution_0098_validate_binary_search_tree.rs)|Medium|
 |0100|[Same Tree](https://leetcode.com/problems/same-tree/) | [rust](./solution/src/solution_0100_same_tree.rs)|Easy|

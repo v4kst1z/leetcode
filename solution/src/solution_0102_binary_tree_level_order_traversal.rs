@@ -19,7 +19,6 @@ impl TreeNode {
 
 use std::rc::Rc;
 use std::cell::RefCell;
-use std::borrow::{Borrow, BorrowMut};
 use std::collections::VecDeque;
 
 pub struct Solution {}
@@ -28,7 +27,7 @@ impl Solution {
     pub fn level_order(root: Option<Rc<RefCell<TreeNode>>>) -> Vec<Vec<i32>> {
         let mut out: Vec<Vec<i32>> = vec![];
         let mut queue = VecDeque::new();
-        let mut tmp_out = vec![];
+        let mut tmp_out ;
         let mut prev_len = 1;
         if root == None { return vec![];}
         out.push(vec![root.clone().unwrap().as_ref().borrow().val]);
