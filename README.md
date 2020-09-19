@@ -29,10 +29,23 @@ LeetCode
 |0095|[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) | [rust](./solution/src/solution_0095_unique_binary_search_trees_ii.rs)|Medium|
 |0096|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | [rust](./solution/src/solution_0096_unique_binary_search_trees.rs)|Medium|
 |0098|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [rust](./solution/src/solution_0098_validate_binary_search_tree.rs)|Medium|
+|0099|[Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | [rust](./solution/src/solution_0099_recover_binary_search_tree.rs)|Hard|
 |0100|[Same Tree](https://leetcode.com/problems/same-tree/) | [rust](./solution/src/solution_0100_same_tree.rs)|Easy|
 |0101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [rust](./solution/src/solution_0101_symmetric_tree.rs)|Easy|
 |0102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [rust](./solution/src/solution_0102_binary_tree_level_order_traversal.rs)|Medium|
 |0103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [rust](./solution/src/solution_0103_binary_tree_zigzag_level_order_traversal.rs)|Medium|
 |0104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [rust](./solution/src/solution_0104_maximum_depth_of_binary_tree.rs)|Easy|
+|0105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [rust](./solution/src/solution_0105_construct_binary_tree_from_preorder_and_inorder_traversal.rs)|Medium|
+|0106|[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | [rust](./solution/src/solution_0106_construct_binary_tree_from_inorder_and_postorder_traversal.rs)|Medium|
+|0107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | [rust](./solution/src/solution_0107_binary_tree_level_order_traversal_ii.rs)|Easy|
+|0108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [rust](./solution/src/solution_0108_convert_sorted_array_to_binary_search_tree.rs)|Easy|
+|0110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [rust](./solution/src/solution_0110_balanced_binary_tree.rs)|Easy|
+|0111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [rust](./solution/src/solution_0111_minimum_depth_of_binary_tree.rs)|Easy|
+|0112|[Path Sum](https://leetcode.com/problems/path-sum/) | [rust](./solution/src/solution_0112_path_sum.rs)|Easy|
+|0113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/) | [rust](./solution/src/solution_0113_path_sum_ii.rs)|Medium|
+|0114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [rust](./solution/src/solution_0114_flatten_binary_tree_to_linked_list.rs)|Medium|
+|0116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [cpp](./solution/src/solution_0116_populating_next_right_pointers_in_each_node.cpp)|Medium|
+|0117|[Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | [cpp](./solution/src/solution_0117_populating_next_right_pointers_in_each_node_ii.cpp)|Medium|
+|0206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [rust](./solution/src/solution_0206_reverse_linked_list.rs)|Easy|
 |0207|[Course Schedule](https://leetcode.com/problems/course-schedule/) | [rust](./solution/src/solution_0207_course_schedule.rs)|Medium|
 |0684|[Redundant Connection](https://leetcode.com/problems/redundant-connection/) | [rust](./solution/src/solution_0684_redundant_connection.rs)|Medium|
