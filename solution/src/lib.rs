@@ -38,7 +38,6 @@ pub mod solution_0104_maximum_depth_of_binary_tree;
 pub mod solution_0103_binary_tree_zigzag_level_order_traversal;
 pub mod solution_0095_unique_binary_search_trees_ii;
 pub mod solution_0206_reverse_linked_list;
-
 pub mod solution_0099_recover_binary_search_tree;
 pub mod solution_0105_construct_binary_tree_from_preorder_and_inorder_traversal;
 pub mod solution_0106_construct_binary_tree_from_inorder_and_postorder_traversal;
@@ -49,3 +48,7 @@ pub mod solution_0111_minimum_depth_of_binary_tree;
 pub mod solution_0112_path_sum;
 pub mod solution_0113_path_sum_ii;
 pub mod solution_0114_flatten_binary_tree_to_linked_list;
+pub mod solution_0129_sum_root_to_leaf_numbers;
+pub mod solution_0124_binary_tree_maximum_path_sum;
+pub mod solution_0024_swap_nodes_in_pairs;
+pub mod solution_0023_merge_k_sorted_lists;

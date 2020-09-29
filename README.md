@@ -25,6 +25,8 @@ LeetCode
 |0019|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [rust](./solution/src/solution_0019_remove_nth_node_from_end_of_list.rs)|Medium|
 |0020|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [rust](./solution/src/solution_0020_valid_parentheses.rs)|Easy|
 |0021|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [rust](solution/src/solution_0021_merge_two_sorted_lists.rs)|Easy|
+|0023|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [rust](solution/src/solution_0023_merge_k_sorted_lists.rs)|Hard|
+|0024|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [rust](solution/src/solution_0024_swap_nodes_in_pairs.rs)|Medium|
 |0094|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [rust](./solution/src/solution_0094_binary_tree_inorder_traversal.rs)|Medium|
 |0095|[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) | [rust](./solution/src/solution_0095_unique_binary_search_trees_ii.rs)|Medium|
 |0096|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | [rust](./solution/src/solution_0096_unique_binary_search_trees.rs)|Medium|
@@ -46,6 +48,8 @@ LeetCode
 |0114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | [rust](./solution/src/solution_0114_flatten_binary_tree_to_linked_list.rs)|Medium|
 |0116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [cpp](./solution/src/solution_0116_populating_next_right_pointers_in_each_node.cpp)|Medium|
 |0117|[Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | [cpp](./solution/src/solution_0117_populating_next_right_pointers_in_each_node_ii.cpp)|Medium|
+|0124|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [rust](./solution/src/solution_0124_binary_tree_maximum_path_sum.rs)|Hard|
+|0129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [rust](./solution/src/solution_0129_sum_root_to_leaf_numbers.rs)|Medium|
 |0206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [rust](./solution/src/solution_0206_reverse_linked_list.rs)|Easy|
 |0207|[Course Schedule](https://leetcode.com/problems/course-schedule/) | [rust](./solution/src/solution_0207_course_schedule.rs)|Medium|
 |0684|[Redundant Connection](https://leetcode.com/problems/redundant-connection/) | [rust](./solution/src/solution_0684_redundant_connection.rs)|Medium|

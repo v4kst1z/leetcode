@@ -19,7 +19,6 @@ impl TreeNode {
 
 use std::rc::Rc;
 use std::cell::{RefCell};
-use std::borrow::Borrow;
 
 pub struct Solution {}
 
@@ -31,8 +30,8 @@ impl Solution {
             } else if node.as_ref().borrow().right.clone() == None {
                 return Solution::min_depth(node.as_ref().borrow().left.clone()) + 1;
             } else {
-                let mut left_depth = Solution::min_depth(node.as_ref().borrow().left.clone());
-                let mut right_depth = Solution::min_depth(node.as_ref().borrow().right.clone());
+                let left_depth = Solution::min_depth(node.as_ref().borrow().left.clone());
+                let right_depth = Solution::min_depth(node.as_ref().borrow().right.clone());
                 std::cmp::min(left_depth, right_depth) + 1
             }
         } else {
