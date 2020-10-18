@@ -3,7 +3,7 @@
 
 class Solution {
 public:
-    static bool sortVec(std::vector<int> vec1, std::vector<int> vec2) {
+    static bool sortVec(std::vector<int> &vec1, std::vector<int> &vec2) {
         return vec1[0] < vec2[0];
     }
     /*
