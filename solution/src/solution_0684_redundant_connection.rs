@@ -63,3 +63,56 @@ impl Solution {
     }
 
 }
+
+/*
+
+class Solution {
+private:
+    vector<int> parents;
+    vector<int> rank;
+
+    void makeSet(int n) {
+        this->rank.resize(n, 0);
+        this->parents.resize(n);
+        for (int idx = 0; idx < n; idx++) {
+            this->parents[idx] = idx;
+            this->rank[idx] = 1;
+        }
+    }
+
+    int getParent(int first) {
+        if (first != parents[first]) {
+            first = getParent(parents[first]);
+        }
+        return first;
+    }
+
+    bool merge(int first, int second) {
+        int first_parent = this->getParent(first);
+        int second_parent = this->getParent(second);
+
+        if (first_parent == second_parent) {
+            return true;
+        }
+        if(this->rank[first_parent] > this->rank[second_parent]) {
+            this->parents[second_parent] = first_parent;
+        } else {
+            this->parents[first_parent] = second_parent;
+            if (this->rank[first_parent] == this->rank[second_parent]) this->rank[second_parent]++;
+        }
+        return false;
+    }
+
+public:
+    vector<int> findRedundantConnection(vector<vector<int>>& edges) {
+        this->makeSet(edges.size() + 1);
+        for (auto pairs: edges) {
+            if (merge(pairs[0], pairs[1])) {
+                return pairs;
+            }
+        }
+        return {};
+    }
+};
+};
+*/
